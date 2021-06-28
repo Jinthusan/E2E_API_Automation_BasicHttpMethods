@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/docs/rest-assured-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/docs/rest-assured-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/docs/xml-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/docs/xml-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Restassured/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/docs/json-schema-validator-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/docs/json-schema-validator-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/btf-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/checker-compat-qual-2.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/guava-28.2-android.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/jackson-annotations-2.11.1.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/jackson-coreutils-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/jackson-coreutils-equivalence-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/jackson-databind-2.11.1.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/joda-time-2.10.5.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/jopt-simple-5.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/json-schema-core-1.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/json-schema-validator-2.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/json-schema-validator-4.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/libphonenumber-8.11.1.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/mailapi-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/msg-simple-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/rhino-1.7.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonschama/uri-template-0.10.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonpath/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonpath/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonpath/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonpath/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonpath/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonpath/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonpath/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/REST API/Section 04/Jsonpath/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/QA Udemy/Selenium/Course Content/Section 08/Assertions/testng-7.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
